@@ -1,6 +1,6 @@
-[09:57:07] [main/INFO]: Setting user: Player725
-[09:57:08] [Client thread/INFO]: LWJGL Version: 2.9.0
-[09:57:08] [Client thread/ERROR]: Couldn't set icon
+[11:07:59] [main/INFO]: Setting user: Player765
+[11:08:00] [Client thread/INFO]: LWJGL Version: 2.9.0
+[11:08:00] [Client thread/ERROR]: Couldn't set icon
 javax.imageio.IIOException: Can't read input file!
 	at javax.imageio.ImageIO.read(Unknown Source) ~[?:1.7.0_65]
 	at net.minecraft.client.Minecraft.readImage(Minecraft.java:641) ~[Minecraft.class:?]
@@ -13,21 +13,28 @@ javax.imageio.IIOException: Can't read input file!
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_65]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:134) [launchwrapper-1.9.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.9.jar:?]
-[09:57:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[09:57:18] [Sound Library Loader/INFO]: Sound engine started
-[09:57:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[09:57:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[09:57:18] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[09:57:19] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[09:57:19] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[09:57:20] [Sound Library Loader/INFO]: Sound engine started
-[09:57:20] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
-[09:57:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[09:57:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[09:57:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[09:57:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[09:57:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[09:57:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[09:57:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[09:57:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[09:57:31] [Client thread/INFO]: Stopping!
+[11:08:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
+[11:08:04] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[11:08:05] [Sound Library Loader/INFO]: Sound engine started
+[11:08:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:08:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:08:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
+[11:08:05] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[11:08:05] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:08:06] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:08:07] [Sound Library Loader/INFO]: Sound engine started
+[11:08:07] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[11:08:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[11:08:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[11:08:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:21] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[11:08:21] [Client thread/INFO]: Stopping!

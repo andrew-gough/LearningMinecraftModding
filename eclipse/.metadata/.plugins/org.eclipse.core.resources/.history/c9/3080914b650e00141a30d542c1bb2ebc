@@ -1,0 +1,5 @@
+package com.gough.learningtomod.proxy;
+
+public class CommonProxy implements IProxy {
+
+}

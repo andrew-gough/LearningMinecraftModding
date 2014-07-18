@@ -1,0 +1,33 @@
+package com.gough.learningtomod;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.Instance;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+
+
+@Mod(modid = "LearningToMod",name = "LearningToMod", version = "1.7.2-1.0")
+
+
+//pre init, init,post init
+public class LearningToMod {
+	
+	@Mod.Instance("LearningToMod")
+	public static  LearningToMod instance;
+	
+	@Mod.EventHandler
+	public void preInit(FMLPreInitializationEvent event){
+		
+	}
+	
+	@Mod.EventHandler
+	public void init(FMLInitializationEvent event){
+		
+	}
+	
+	@Mod.EventHandler
+	public void postInit(FMLPostInitializationEvent event){
+		
+	}
+}
