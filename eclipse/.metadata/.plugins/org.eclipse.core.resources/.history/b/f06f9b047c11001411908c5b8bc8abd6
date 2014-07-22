@@ -1,0 +1,5 @@
+package com.gough.learningtomod.configuration;
+
+public class ConfigurationHandler {
+
+}

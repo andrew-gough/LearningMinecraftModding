@@ -1,6 +1,5 @@
 package com.gough.learningtomod;
 
-import com.gough.learningtomod.configuration.ConfigurationHandler;
 import com.gough.learningtomod.proxy.IProxy;
 import com.gough.learningtomod.reference.Reference;
 
@@ -21,13 +20,12 @@ public class LearningToMod {
 	@Mod.Instance(Reference.MOD_ID)
 	public static  LearningToMod instance;
 	
-	@SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
+	@SidedProxy(clientSide = "com.gough.learningtomod.proxy.ClientProxy", serverSide = "com.gough.learningtomod.proxy.ServerProxy")
 	public static IProxy proxy;
 	
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event){
-		// Read in config here
-		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+		
 	}
 	
 	@Mod.EventHandler

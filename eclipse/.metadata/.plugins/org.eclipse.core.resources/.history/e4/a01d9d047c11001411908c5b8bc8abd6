@@ -1,6 +1,5 @@
 package com.gough.learningtomod;
 
-import com.gough.learningtomod.configuration.ConfigurationHandler;
 import com.gough.learningtomod.proxy.IProxy;
 import com.gough.learningtomod.reference.Reference;
 
@@ -26,8 +25,7 @@ public class LearningToMod {
 	
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event){
-		// Read in config here
-		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+		
 	}
 	
 	@Mod.EventHandler
