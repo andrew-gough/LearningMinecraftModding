@@ -5,4 +5,7 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.common.SidedProxy"/>
 <fullyQualifiedTypeName name="com.gough.learningtomod.proxy.IProxy"/>
 <fullyQualifiedTypeName name="com.gough.learningtomod.reference.Reference"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.gough.learningtomod.configuration.ConfigurationHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
 </qualifiedTypeNameHistroy>

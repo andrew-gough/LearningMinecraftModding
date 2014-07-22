@@ -1,39 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>LearningToMod</name>
-	<comment></comment>
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-	</buildSpec>
+	<name>LearningMinecraftModding</name>
+	<comment/>
+	<projects/>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>common</name>
-			<type>2</type>
-			<location>C:/Users/Andrew/Dropbox/Programming/Minecraft Mods for 1.7/LearningMinecraftModding/common</location>
-		</link>
-		<link>
-			<name>jars</name>
-			<type>2</type>
-			<location>C:/Users/Andrew/Dropbox/Programming/Minecraft Mods for 1.7/LearningMinecraftModding/jars</location>
-		</link>
-		<link>
-			<name>lib</name>
-			<type>2</type>
-			<location>C:/Users/Andrew/Dropbox/Programming/Minecraft Mods for 1.7/LearningMinecraftModding/lib</location>
-		</link>
-		<link>
-			<name>src</name>
-			<type>2</type>
-			<location>C:/Users/Andrew/Dropbox/Programming/Minecraft Mods for 1.7/LearningMinecraftModding/src</location>
-		</link>
-	</linkedResources>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<linkedResources/>
 </projectDescription>
