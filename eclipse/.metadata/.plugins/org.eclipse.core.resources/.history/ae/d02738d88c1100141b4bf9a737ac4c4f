@@ -1,0 +1,5 @@
+package com.gough.learningtomod.client.gui;
+
+public class ModGuiConfig extends ModGuiConfig{
+
+}

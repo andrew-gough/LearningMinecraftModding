@@ -1,0 +1,40 @@
+package com.gough.learningtomod.handler;
+
+import java.io.File;
+
+import com.gough.learningtomod.reference.Reference;
+
+import cpw.mods.fml.client.event.ConfigChangedEvent;
+import cpw.mods.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.common.config.Configuration;
+
+public class ConfigurationHandler {
+
+	public static Configuration config;
+	public static boolean configValue = false;
+
+	public static void init(File configFile) {
+		boolean configValue = false;
+		if (config == null) {
+			// create the config from the given config file
+			Configuration config = new Configuration(configFile);
+		}
+	}
+
+	@SubscribeEvent
+	public void onConfigurationChangedEvent(ConfigChangedEvent cEvent) {
+		if (cEvent.modID.equalsIgnoreCase(Reference.MOD_ID)) {
+			loadConfig();
+		}
+	}
+
+	public void loadConfig() {
+
+		configValue = config.getBoolean("configValue", Configuration.CATEGORY_GENERAL, true,"This is an example config value");
+
+		if (config.hasChanged()) {
+			config.save();
+		}
+
+	}
+}

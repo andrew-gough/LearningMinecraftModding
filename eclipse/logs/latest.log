@@ -1,140 +1,39 @@
-[10:53:11] [main/ERROR]: Can't find the resource index file: .\assets\indexes\1.7.10.json
-[10:53:11] [main/INFO]: Setting user: Player784
-[10:53:12] [Client thread/INFO]: LWJGL Version: 2.9.1
-[10:53:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
-[10:53:16] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
-[10:53:17] [Sound Library Loader/INFO]: Sound engine started
-[10:53:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[10:53:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[10:53:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
-[10:53:17] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
-[10:53:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[10:53:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[10:53:18] [Sound Library Loader/INFO]: Sound engine started
-[10:53:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:53:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[10:53:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[10:53:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:54:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:54:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:54:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:54:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:55:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:55:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:55:54] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:56:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:56:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:56:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:57:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:57:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:57:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:58:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:58:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:58:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:59:11] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:59:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:59:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:59:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[10:59:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:00:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:00:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:00:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:00:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:29] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:01:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:02:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:02:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:02:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:03:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:03:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:03:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:03:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:03:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:04:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:04:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:04:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:04:52] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:05:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:05:25] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:05:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:05:43] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:06:05] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:06:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:06:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:06:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:07:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:07:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:07:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:07:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:07:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:08:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:08:19] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:08:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:08:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:09:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:09:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:09:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:09:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:10:08] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:10:22] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:10:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:11:10] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:11:16] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:11:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:11:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:11:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:12:02] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:12:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:12:36] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:13:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:13:09] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:13:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:13:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:13:42] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:14:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:14:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:14:35] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:14:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:14:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:14:53] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:15:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:15:07] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:15:14] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:15:37] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:16:00] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:16:06] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:16:12] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:16:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:16:58] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:17:24] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:17:27] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:17:40] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:17:50] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:17:57] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:18:03] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:18:13] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:18:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:18:20] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:18:32] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:18:55] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:19:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:19:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:19:59] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:20:18] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:20:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:20:39] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:20:41] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:20:47] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:20:56] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:21:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:21:23] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:21:38] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:21:45] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[11:21:51] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
-[11:21:51] [Client thread/INFO]: Stopping!
+[12:17:47] [main/INFO]: Setting user: Player496
+[12:17:49] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:17:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
+[12:17:52] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:17:53] [Sound Library Loader/INFO]: Sound engine started
+[12:18:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:18:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:18:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
+[12:18:02] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: %s in %s
+[12:18:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:18:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:18:03] [Sound Library Loader/INFO]: Sound engine started
+[12:21:18] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:21:18] [Server thread/INFO]: Generating keypair
+[12:21:18] [Server thread/INFO]: Converting map!
+[12:21:18] [Server thread/INFO]: Scanning folders...
+[12:21:18] [Server thread/INFO]: Total conversion count is 0
+[12:21:20] [Server thread/INFO]: Preparing start region for level 0
+[12:21:21] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:21:21] [Server thread/INFO]: Player496[local:E:6714dadd] logged in with entity id 30 at (-930.5, 4.0, 162.5)
+[12:21:21] [Server thread/INFO]: Player496 joined the game
+[12:21:24] [Server thread/INFO]: Player496 has just earned the achievement [Taking Inventory]
+[12:21:24] [Client thread/INFO]: [CHAT] Player496 has just earned the achievement [Taking Inventory]
+[12:21:48] [Server thread/INFO]: Saving and pausing game...
+[12:21:48] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:21:48] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:21:48] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:23:46] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[12:34:16] [Server thread/INFO]: Saving and pausing game...
+[12:34:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:34:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:34:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:40:16] [Server thread/INFO]: Stopping server
+[12:40:16] [Server thread/INFO]: Saving players
+[12:40:16] [Server thread/INFO]: Saving worlds
+[12:40:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:40:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:40:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:40:30] [Client thread/INFO]: Stopping!
