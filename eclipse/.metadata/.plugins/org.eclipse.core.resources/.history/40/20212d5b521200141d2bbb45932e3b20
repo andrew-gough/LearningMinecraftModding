@@ -1,0 +1,15 @@
+package com.gough.learningtomod.init;
+
+import com.gough.learningtomod.item.*;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems {
+
+	public static final ItemLTM itemCursor = new itemCursor();
+	
+	public static void init(){
+		GameRegistry.registerItem(itemCursor,"itemCursor");
+	}
+	
+}

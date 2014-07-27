@@ -1,0 +1,39 @@
+package com.gough.learningtomod.creativetab;
+
+import com.gough.learningtomod.init.ModItems;
+import com.gough.learningtomod.reference.Reference;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.init.Items;
+import net.minecraft.item.Item;
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
+
+public class CreativeTabLTM {
+
+	public static final CreativeTabs tabLTM = new CreativeTabs(Reference.MOD_ID.toLowerCase()){
+		
+		@SideOnly(Side.CLIENT)
+		@Override
+		public Item getTabIconItem()
+	    {
+	        return ModItems.itemCursor;
+	    }
+		
+		public String getTranslatedTabLabel(){
+			
+			return "Learning To Mod!";
+		}
+	};
+	
+}
+
+//public static final CreativeTabs tabMaterials = new CreativeTabs(10, "materials")
+//{
+//    private static final String __OBFID = "CL_00000008";
+//    @SideOnly(Side.CLIENT)
+//    public Item getTabIconItem()
+//    {
+//        return Items.stick;
+//    }
+//};

@@ -1,6 +1,9 @@
 package com.gough.learningtomod;
 
 import com.gough.learningtomod.handler.ConfigurationHandler;
+import com.gough.learningtomod.init.ModBlocks;
+import com.gough.learningtomod.init.ModItems;
+import com.gough.learningtomod.init.Recipes;
 import com.gough.learningtomod.proxy.IProxy;
 import com.gough.learningtomod.reference.Reference;
 import com.gough.learningtomod.utility.LogHelper;
@@ -31,11 +34,14 @@ public class LearningToMod {
 		// Read in config here
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
-	LogHelper.info("preInit Complete");
+		ModItems.init();
+		ModBlocks.init();
+		LogHelper.info("preInit Complete");
 	}
 	
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event){
+		Recipes.init();
 		LogHelper.info("init Complete");
 	}
 	

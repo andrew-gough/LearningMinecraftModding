@@ -1,0 +1,43 @@
+package com.gough.learningtomod.item;
+
+import net.minecraft.block.Block;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.init.Blocks;
+import net.minecraft.item.ItemStack;
+import net.minecraft.world.World;
+
+import com.gough.learningtomod.creativetab.CreativeTabLTM;
+
+public class ItemCursor extends ItemLTM{
+
+	
+	
+	public ItemCursor(){
+		super();
+		this.setUnlocalizedName("itemCursor");
+		this.setCreativeTab(CreativeTabLTM.tabLTM);
+	}
+	
+	public ItemStack onItemRightClick(ItemStack itemStack,World world,EntityPlayer player){
+		if(player.isSneaking()){
+			world.setWorldTime(6000);
+		}else{
+		world.setWorldTime(0);
+		}
+		return itemStack;
+	}
+	
+	@Override
+	public boolean onItemUse(ItemStack stack, EntityPlayer player, World world, int x, int y, int z, int side, float hitX, float hitY, float hitZ) {
+//		if(player.isSneaking()){
+//			world.setWorldTime(6000);
+//		}else{
+//		world.setWorldTime(0);
+//		}
+		world.setBlock((int)hitX, (int)hitY, (int)hitZ,Blocks.gold_block,0,2);
+		System.out.println("X: "+ (int)hitX + " Y: "+ (int)hitY + " Z: "+ (int)hitZ + "Block Setting: " + Blocks.gold_block);
+		return true;
+	}
+	
+	
+}

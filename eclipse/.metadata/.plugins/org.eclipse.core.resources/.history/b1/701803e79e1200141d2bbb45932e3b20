@@ -1,0 +1,12 @@
+package com.gough.learningtomod.item;
+
+import com.gough.learningtomod.creativetab.CreativeTabLTM;
+
+public class ItemCursor extends ItemLTM{
+
+	public ItemCursor(){
+		super();
+		this.setUnlocalizedName("itemCursor");
+		this.setCreativeTab(CreativeTabLTM.tabLTM);
+	}
+}

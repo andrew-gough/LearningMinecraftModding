@@ -1,0 +1,12 @@
+package com.gough.learningtomod.block;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockLTM extends Block{
+
+	public BlockLTM(Material material){
+		super(material);
+	}
+	
+}

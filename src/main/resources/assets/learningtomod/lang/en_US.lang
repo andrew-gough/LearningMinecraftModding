@@ -1,0 +1,10 @@
+item.learningtomod:itemCursor.name=Cursor
+item.learningtomod:itemHandOfMidas.name=Hand Of Midas
+
+tile.learningtomod:letterC.name=Letter C
+tile.learningtomod:letterU.name=Letter U
+tile.learningtomod:letterN.name=Letter N
+tile.learningtomod:letterT.name=Letter T
+tile.learningtomod:compressedGold.name=Compressed Gold Block
+
+itemGroup.learningtomod=Learning To Mod!

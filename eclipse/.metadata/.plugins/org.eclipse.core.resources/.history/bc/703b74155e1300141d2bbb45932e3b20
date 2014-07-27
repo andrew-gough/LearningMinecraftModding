@@ -1,0 +1,26 @@
+package com.gough.learningtomod.item;
+
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.ItemStack;
+import net.minecraft.world.World;
+
+import com.gough.learningtomod.creativetab.CreativeTabLTM;
+
+public class ItemCursor extends ItemLTM{
+
+	
+	
+	public ItemCursor(){
+		super();
+		this.setUnlocalizedName("itemCursor");
+		this.setCreativeTab(CreativeTabLTM.tabLTM);
+	}
+	
+	public ItemStack onItemRightClick(ItemStack itemStack,World world,EntityPlayer player){
+		player.setHealth(player.getMaxHealth());
+		//world.setWorldTime(6000);
+		
+		return itemStack;
+	}
+	
+}

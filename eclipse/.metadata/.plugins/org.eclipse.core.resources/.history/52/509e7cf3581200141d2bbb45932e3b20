@@ -1,0 +1,11 @@
+package com.gough.learningtomod.block;
+
+import net.minecraft.block.Block;
+
+public class BlockLTM extends Block{
+
+	public BlockLTM(){
+		
+	}
+	
+}

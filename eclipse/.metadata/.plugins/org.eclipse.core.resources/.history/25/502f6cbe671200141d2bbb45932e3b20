@@ -1,0 +1,18 @@
+package com.gough.learningtomod.block;
+
+import net.minecraft.block.material.Material;
+
+public class BlockC extends BlockLTM {
+
+	public BlockC(Material material) {
+		super(material);
+		// TODO Auto-generated constructor stub
+	}
+
+	public BlockC() {
+		super();
+		this.setBlockName("letterC");
+		// TODO Auto-generated constructor stub
+	}
+
+}

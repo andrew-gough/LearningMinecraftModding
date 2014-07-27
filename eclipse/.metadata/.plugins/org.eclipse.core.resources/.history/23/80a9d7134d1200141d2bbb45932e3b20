@@ -1,0 +1,9 @@
+package com.gough.learningtomod.init;
+
+import com.gough.learningtomod.item.*;
+
+public class ModItems {
+
+	public static final ItemLTM itemCursor = new ItemCursor();
+	
+}

@@ -1,0 +1,23 @@
+[11:00:58] [main/INFO]: Setting user: Player827
+[11:00:59] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:01:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
+[11:01:05] [Sound Library Loader/INFO]: Sound engine started
+[11:01:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:01:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:01:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Learning To Mod
+[11:01:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:01:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:01:08] [Sound Library Loader/INFO]: Sound engine started
+[11:01:14] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:01:14] [Server thread/INFO]: Generating keypair
+[11:01:15] [Server thread/INFO]: Preparing start region for level 0
+[11:01:16] [Server thread/INFO]: Preparing spawn area: 87%
+[11:01:16] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:01:17] [Server thread/INFO]: Player827[local:E:3d6d3e94] logged in with entity id 280 at (-1099.6136292424173, 34.18353035491531, -11.353563821188402)
+[11:01:17] [Server thread/INFO]: Player827 joined the game
+[11:01:26] [Server thread/INFO]: Player827 has just earned the achievement [Taking Inventory]
+[11:01:26] [Client thread/INFO]: [CHAT] Player827 has just earned the achievement [Taking Inventory]
+[11:02:03] [Server thread/INFO]: Saving and pausing game...
+[11:02:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:02:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:02:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End

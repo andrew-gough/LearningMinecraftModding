@@ -1,0 +1,8 @@
+item.learningtomod:itemCursor.name=Cursor
+
+tile.learningtomod:letterC.name=Letter C
+tile.learningtomod:letterU.name=Letter U
+tile.learningtomod:letterN.name=Letter N
+tile.learningtomod:letterT.name=Letter T
+
+itemGroup.learningtomod=Learning To Mod!

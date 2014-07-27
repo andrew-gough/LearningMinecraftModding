@@ -1,0 +1,9 @@
+package com.gough.learningtomod.init;
+
+public class Recipes {
+
+	public static void init(){
+		
+	}
+	
+}

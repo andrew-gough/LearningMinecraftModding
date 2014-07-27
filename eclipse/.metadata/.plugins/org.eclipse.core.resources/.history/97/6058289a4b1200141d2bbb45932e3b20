@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LearningToMod",
+  "name": "Learning To Mod",
+  "description": "Learning how to mod in minecraft",
+  "version": "1.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Andrew"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

@@ -1,0 +1,19 @@
+package com.gough.learningtomod.init;
+
+import net.minecraft.init.Blocks;
+import net.minecraft.init.Items;
+import net.minecraft.item.ItemStack;
+import net.minecraftforge.oredict.ShapedOreRecipe;
+import net.minecraftforge.oredict.ShapelessOreRecipe;
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class Recipes {
+
+	public static void init(){
+		//Shaped recipe
+		GameRegistry.addRecipe(new ShapedOreRecipe(new ItemStack(ModItems.itemCursor)," s ","sss", " s ",'s', "stickWood"));
+		GameRegistry.addRecipe(new ShapelessOreRecipe(new ItemStack(ModBlocks.letterC), new ItemStack(Blocks.wool),new ItemStack(Blocks.wool),new ItemStack(Blocks.wool),new ItemStack(Blocks.wool),new ItemStack(Blocks.wool)));
+	
+	}
+	
+}

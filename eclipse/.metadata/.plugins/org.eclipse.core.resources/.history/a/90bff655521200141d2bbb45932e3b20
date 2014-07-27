@@ -1,0 +1,9 @@
+package com.gough.learningtomod.item;
+
+public class ItemCursor extends ItemLTM{
+
+	public ItemCursor(){
+		super();
+		this.setUnlocalizedName("Cursor");
+	}
+}

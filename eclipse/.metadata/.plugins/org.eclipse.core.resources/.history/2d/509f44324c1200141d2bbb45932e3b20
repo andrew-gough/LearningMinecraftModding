@@ -1,0 +1,7 @@
+package com.gough.learningtomod.item;
+
+import net.minecraft.item.Item;
+
+public class itemLTM extends Item{
+
+}
